@@ -23,7 +23,7 @@ With the help of this tool, you can:
 - google account
 
 ## 📦 Installation
-1. [Click here to download the ZIP project.](https://github.com/LuckaSokolka/shopping_bot/archive/refs/heads/main.zip)
+1. [Click here to download the ZIP project.](https://github.com/LuckaSokolka/Shopping-Bot/archive/refs/heads/main.zip)
 2. In the same folder, create a file called log.py
 3. Input your Google email and password for your Google account in log.py with the following code:<br>
 
