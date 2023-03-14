@@ -24,11 +24,13 @@ With the help of this tool, you can:
 
 ## 📦 Installation
 1. [Click here to download the ZIP project.](https://github.com/LuckaSokolka/Shopping-Bot/archive/refs/heads/main.zip)
-2. In the same folder, create a file called log.py
-3. Input your Google email and password for your Google account in log.py with the following code:<br>
+2. In the same folder, create a folder called credentials with file credentials.py
+3. Input your Google email and password for your Google account in credentials.py with the following code:<br>
 
-    email = "xxxxx"  # only the part before @gmail.com<br>
-    password_gmail = "xxxxx"<br>
+class MyCredentials:
+
+    GMAIL = "your email" # without gmail.com
+    PASSWORD = "password"
 
 4. Run the file main.py
 
