@@ -7,7 +7,7 @@ Shopping Bot is a tool for shopping on zalando-lounge.cz. If the item you want i
 With the help of this tool, you can:
 - go to the site zalando-lounge.cz<br>
 - log in via your Google account<br>
-- select an item.<br>
+- select an item<br>
 - when the item is reserved, it refreshes the page<br>
 - once the item is available, it adds it to your cart and plays a notification sound<br>
 - if the item is sold out, it will print a message and play a notification sound<br>
@@ -40,7 +40,7 @@ After starting the program, input the following data about the item you want to 
 ![zalando_screen](photos/zalando_screen.png)
 
 ## Example
-You can see how it works in this video. [how does it work](https://youtu.be/J2wq6aRW_E4)
+You can see how it works in this video. [how it works](https://youtu.be/J2wq6aRW_E4)
 
 
 
