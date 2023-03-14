@@ -40,8 +40,7 @@ After starting the program, input the following data about the item you want to 
 ![zalando_screen](photos/zalando_screen.png)
 
 ## Example
-You can see how it works in this video. [how it works](https://youtu.be/J2wq6aRW_E4)
-
+You can see [how it works](https://youtu.be/J2wq6aRW_E4) in this video.
 
 
 
