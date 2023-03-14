@@ -1,4 +1,8 @@
-selenium 4.8.2 pip install selenium==4.8.2
-undetected-chromedriver 3.4.6 pip install undetected-chromedriver==3.4.6
-playsound 1.2.2 pip install playsound==1.2.2
+selenium 4.8.2 (pip install selenium==4.8.2)
+undetected-chromedriver 3.4.6 (pip install undetected-chromedriver==3.4.6)
+playsound 1.2.2 (pip install playsound==1.2.2)
 google account
+create folder credentials with file credentials.py with code:
+  class MyCredentials:
+    GMAIL = "email" # without gmail.com
+    PASSWORD = "password"
